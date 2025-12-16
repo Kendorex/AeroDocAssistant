@@ -1,0 +1,6 @@
+qdrant-client>=1.9.0
+docling
+chonkie
+fastembed
+python-dotenv
+tqdm
